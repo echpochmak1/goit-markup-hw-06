@@ -898,7 +898,7 @@ ul {
   border: 1.25px solid #2e2f42;
   border-radius: 4px;
   margin-right: 8px;
-  margin-bottom: 24px;
+  margin-bottom: 20px;
   margin-top: 16px;
 }
 
@@ -1256,7 +1256,7 @@ ul {
   color: rgba(46, 47, 66, 0.4);
   font-family: "Roboto";
   font-weight: 400;
-  font-size: 16px;
+  font-size: 12px;
   line-height: 1.2;
   letter-spacing: 0.04em;
   outline: transparent;
